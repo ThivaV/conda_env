@@ -1,4 +1,4 @@
-name: tf2_8_env
+name: tf28-env
 channels:
   - defaults
 dependencies:
@@ -24,6 +24,7 @@ dependencies:
   - colorama=0.4.4=pyhd3eb1b0_0
   - cryptography=3.4.8=py38h71e12ea_0
   - cycler=0.11.0=pyhd3eb1b0_0
+  - dal=2021.5.0=haa95532_796
   - dataclasses=0.8=pyh6d0b6a4_7
   - dill=0.3.4=pyhd3eb1b0_0
   - fonttools=4.25.0=pyhd3eb1b0_0
@@ -99,6 +100,7 @@ dependencies:
   - six=1.16.0=pyhd3eb1b0_1
   - sqlite=3.37.2=h2bbff1b_0
   - tensorboard-plugin-wit=1.6.0=py_0
+  - tensorflow-base=2.3.0=eigen_py38h75a453f_0
   - tensorflow-estimator=2.6.0=pyh7b7c402_0
   - tensorflow-metadata=0.14.0=pyhe6710b0_1
   - termcolor=1.1.0=py38haa95532_1
@@ -137,4 +139,4 @@ dependencies:
     - tensorflow-gpu==2.8.0
     - tensorflow-io-gcs-filesystem==0.24.0
     - tf-estimator-nightly==2.8.0.dev2021122109
-prefix: C:\Users\ThivaharanVaratharaj\.conda\envs\tf2_8_env
+prefix: C:\Users\ThivaharanVaratharaj\.conda\envs\tf28-env
